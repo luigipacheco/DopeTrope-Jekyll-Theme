@@ -6,6 +6,8 @@
 	Dopetrope by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#252122
+#d52349
 */
 
 /*********************************************************************************/
@@ -14,7 +16,7 @@
 
 	body
 	{
-		background: #252122;
+		background: #f0670e; 
 		background-image: url('images/bg02.png');
 	}
 
@@ -40,7 +42,7 @@
 
 	strong, b
 	{
-		color: #252122;
+		color: #f0670e;
 		font-weight: 400;
 	}
 
@@ -72,7 +74,7 @@
 
 	h1, h2, h3, h4, h5, h6
 	{
-		color: #252122;
+		color: #f0670e;
 		font-weight: 700;
 	}
 
@@ -84,7 +86,7 @@
 
 	a
 	{
-		color: #d52349;
+		color: #f0670e;
 		text-decoration: underline;
 	}
 
@@ -120,7 +122,7 @@
 			form label
 			{
 				display: block;
-				color: #252122;
+				color: #f0670e;
 				font-weight: 400;
 				margin: 0 0 0.5em 0;
 			}
@@ -315,7 +317,7 @@
 			cursor: pointer;
 			border: 0;
 			border-radius: 5px;
-			background: #d52349;
+			background: #f0670e;
 			color: #fff !important;
 			font-weight: 700;
 			outline: 0;
@@ -339,7 +341,7 @@
 			input[type="reset"]:active,
 			.button:active
 			{
-				background: #c51349;
+				background: #f0670e;
 			}
 
 			input[type="button"].alt,
@@ -672,12 +674,12 @@
 
 			.icon.featured.alt
 			{
-				background-color: #252122;
+				background-color: #f0670e;
 			}
 
 				.icon.featured.alt:after
 				{
-					border-top-color: #252122;
+					border-top-color: #f0670e;
 				}
 
 			.icon.featured.alt2
@@ -705,7 +707,7 @@
 
 		#banner header
 		{
-			background-color: #252122;
+			background-color: #f0670e;
 			background-color: rgba(34,30,31,0.98);
 		}
 
