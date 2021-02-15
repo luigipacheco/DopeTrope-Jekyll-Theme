@@ -1,7 +1,7 @@
 name: makercademy
 description: MakerCademy website
 paginate: 10
-baseurl: ''
+baseurl: '/makercademy.com'
 logo: 'assets/images/logo.png'
 
 theme: jekyll-theme-minimal
